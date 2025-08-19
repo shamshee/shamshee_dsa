@@ -60,7 +60,7 @@ public class FizzBuzz {
 				arr[i-1]=String.valueOf(i);
 			}
 		}
-		return arr;
+		return arr;  
 		
 	}
 	
